@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Kalpana
+👋 Hi, I’m Kalpana
 
-- 🌱 I’m currently learning Data Science
+ 🌱 I’m currently learning Data Science
