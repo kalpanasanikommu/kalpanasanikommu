@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpana</h1>
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning Data Science
 
 - 💬 Ask me about **Python,SQL,MondoDB,Satistics,Machine learning,Tableau,Power BI,Advanced Excel**
 
