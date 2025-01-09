@@ -17,5 +17,6 @@
 
 
 - 📫 How to reach me **www.linkedin.com/in/kalpana-s-34aab1293**
+- ✉️ **kalpanasanikommu99@gmail.com**
 
 
