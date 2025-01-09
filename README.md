@@ -3,17 +3,17 @@
 
 ## Skills
 
-**Data Analysis:** Expertise in data cleaning and exploratory data analysis (EDA).
+▶️**Data Analysis:** Expertise in data cleaning and exploratory data analysis (EDA).
 
-**Statistical Analysis:** Knowledge of statistical methods for hypothesis testing and drawing insights from data.
+▶️**Statistical Analysis:** Knowledge of statistical methods for hypothesis testing and drawing insights from data.
 
-**Tools & Technologies:** Proficient in Python (Pandas, NumPy), SQL, Excel, Tableau, and Power BI for data manipulation and visualization.
+▶️**Tools & Technologies:** Proficient in Python (Pandas, NumPy), SQL, Excel, Tableau, and Power BI for data manipulation and visualization.
 
-**Data Visualization:** Ability to create insightful and interactive visualizations using tools like Power BI.
+▶️**Data Visualization:** Ability to create insightful and interactive visualizations using tools like Power BI.
 
-**Machine Learning:** Familiar with basic machine learning algorithms for predictive analysis with tools like scikit-learn.
+▶️**Machine Learning:** Familiar with basic machine learning algorithms for predictive analysis with tools like scikit-learn.
 
-**Communication:** Skilled at presenting data insights in a clear and actionable manner for stakeholders.
+▶️**Communication:** Skilled at presenting data insights in a clear and actionable manner for stakeholders.
 
 
 - 📫 How to reach me **www.linkedin.com/in/kalpana-s-34aab1293**
